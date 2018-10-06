@@ -3,4 +3,7 @@
 Example: 
 
 print(get_country_of_ISS(google_api_key))
+
 Canada
+
+** Note: you will need to pass a valid google API key to the function to work properly. 
